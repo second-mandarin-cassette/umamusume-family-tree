@@ -1,6 +1,6 @@
 # Uma Musume: Pretty Derby family tree
 ## Description
-A cladogram visualizing the relations of the ingame characters and their real life ancestors.
+A cladogram visualizing the relations of the ingame characters and their real life ancestors. It can be viewed here: https://second-mandarin-cassette.github.io/umamusume-family-tree/
 
 ## Raw data
 The raw data is saved inside the file "umamusume_family_tree.csv".
