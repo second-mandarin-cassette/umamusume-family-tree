@@ -19,7 +19,7 @@ The gnuclad tool can sort the csv file by "start date". A different configuratio
 `gnuclad umamusume_family_tree.csv umamusume_family_tree_sorted.csv sort.conf
 
 ## TODO
-- [] Use different colors for vertical connections
+- [ ] Use different colors for vertical connections
 
 ## Thanks
 Thanks goes to the project https://github.com/eylenburg/os-family-tree which was taken as inspiration.
