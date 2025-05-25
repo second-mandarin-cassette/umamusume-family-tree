@@ -1046,7 +1046,7 @@ style='opacity:0.6;' >
   <path id='__line_Lucky__Lilac__(JPN)' d='M 1430 3595 C 1450.25,3595 1436.75,3625 1457,3625 L 1457 3625 L 1747 3625' stroke='#E515A8' style='stroke-width:4;' />
   <path id='__line_Orfevre__(JPN)' d='M 1203 3505 C 1238.25,3505 1214.75,3595 1250,3595 L 1250 3595 L 1747 3595' stroke='#1548E5' style='stroke-width:4;' />
   <path id='__line_Nakayama__Festa__(JPN)' d='M 1126 3505 C 1171.75,3505 1141.25,3655 1187,3655 L 1187 3655 L 1747 3655' stroke='#1548E5' style='stroke-width:4;' />
-  <path id='__line_Stay__Gold__(JPN)' d='M 673 2575 C 787,2575 711,3505 825,3505 L 825 3505 L 1452 3505' stroke='#A5D8EF' style='stroke-width:4;' />
+  <path id='__line_Stay__Gold__(JPN)' d='M 673 2575 C 787,2575 711,3505 825,3505 L 825 3505 L 1452 3505' stroke='#1548E5' style='stroke-width:4;' />
   <path id='__line_Bubble__Gum__Fellow__(JPN)' d='M 629 2575 C 755,2575 671,3715 797,3715 L 797 3715 L 1307 3715' stroke='#1548E5' style='stroke-width:4;' />
   <path id='__line_Marvelous__Sunday__(JPN)' d='M 599 2575 C 727.25,2575 641.75,3745 770,3745 L 770 3745 L 1492 3745' stroke='#1548E5' style='stroke-width:4;' />
   <path id='__line_Sunday__Silence__(USA)' d='M 585 2575 L 1117 2575' stroke='#A5D8EF' style='stroke-width:4;' />
@@ -1231,7 +1231,7 @@ style='opacity:0.6;' >
   <circle id='__dot_Lucky__Lilac__(JPN)' cx='1457' cy='3625' r='6' fill='#E515A8' stroke='none' />
   <circle id='__dot_Orfevre__(JPN)' cx='1250' cy='3595' r='6' fill='#1548E5' stroke='none' />
   <circle id='__dot_Nakayama__Festa__(JPN)' cx='1187' cy='3655' r='6' fill='#1548E5' stroke='none' />
-  <circle id='__dot_Stay__Gold__(JPN)' cx='825' cy='3505' r='6' fill='#A5D8EF' stroke='none' />
+  <circle id='__dot_Stay__Gold__(JPN)' cx='825' cy='3505' r='6' fill='#1548E5' stroke='none' />
   <circle id='__dot_Bubble__Gum__Fellow__(JPN)' cx='797' cy='3715' r='6' fill='#1548E5' stroke='none' />
   <circle id='__dot_Marvelous__Sunday__(JPN)' cx='770' cy='3745' r='6' fill='#1548E5' stroke='none' />
   <circle id='__dot_Sunday__Silence__(USA)' cx='585' cy='2575' r='6' fill='#A5D8EF' stroke='none' />
