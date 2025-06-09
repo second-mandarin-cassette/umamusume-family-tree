@@ -3,12 +3,7 @@
 A cladogram visualizing the relations of the ingame characters and their real life ancestors. It can be viewed here: https://second-mandarin-cassette.github.io/umamusume-family-tree/
 
 ### Guidlines
-Common ancestors are only added and linked if they are not farther then three grades. Characters are linked to ancestors if these were already added.
-
-### Conflicts and exceptions
-The horse "Northern Dancer" is a fourth grade ancestor to many ingame characters and their real life namesakes. Adding it is expected to make the chart less easy to read.
-
-Adding and linking the ancestor "Hail to Reason" was in question. It makes "Sunday Silence" and its progenies "stick" less out. But it also moved it and its tree up inside the chart.
+Common ancestor of at least two characters is only added and linked if it is not farther apart then three degrees. Except when the ancestor is already present.
 
 ## Working with the data set
 
