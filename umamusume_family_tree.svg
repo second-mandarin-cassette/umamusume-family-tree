@@ -1147,7 +1147,7 @@ style='opacity:0.6;' >
   <path id='__line_Still__in__Love__(JPN)' d='M 1171 505 C 1252.75,505 1198.25,985 1280,985 L 1280 985 L 1497 985' stroke='#E515A8' style='stroke-width:4;' />
   <path id='__line_Sounds__of__Earth__(JPN)' d='M 1580 1015 C 1600.25,1015 1586.75,1045 1607,1045 L 1607 1045 L 1962 1045' stroke='#1548E5' style='stroke-width:4;' />
   <path id='__line_Neo__Universe__(JPN)' d='M 1168 505 C 1252,505 1196,1015 1280,1015 L 1280 1015 L 1905 1015' stroke='#1548E5' style='stroke-width:4;' />
-  <path id='__line_Admire__Groove__(JPN)' d='M 1158 505 C 1247.25,505 1187.75,1075 1277,1075 L 1277 1075 L 1635 1075' stroke='#E991CF' style='stroke-width:4;' />
+  <path id='__line_Admire__Groove__(JPN)' d='M 1158 505 C 1247.25,505 1187.75,1075 1277,1075 L 1277 1075 L 1630 1075' stroke='#E515A8' style='stroke-width:4;' />
   <path id='__line_Zenno__Rob__Roy__(JPN)' d='M 1153 505 C 1244.5,505 1183.5,1105 1275,1105 L 1275 1105 L 1950 1105' stroke='#1548E5' style='stroke-width:4;' />
   <path id='__line_Durandal__(JPN)' d='M 1125 505 C 1218.75,505 1156.25,1135 1250,1135 L 1250 1135 L 1675 1135' stroke='#1548E5' style='stroke-width:4;' />
   <path id='__line_Espoir__City__(JPN)' d='M 1389 1165 C 1417.5,1165 1398.5,1225 1427,1225 L 1427 1225 L 2037 1225' stroke='#1548E5' style='stroke-width:4;' />
@@ -1372,7 +1372,7 @@ style='opacity:0.6;' >
   <circle id='__dot_Still__in__Love__(JPN)' cx='1280' cy='985' r='6' fill='#E515A8' stroke='none' />
   <circle id='__dot_Sounds__of__Earth__(JPN)' cx='1607' cy='1045' r='6' fill='#1548E5' stroke='none' />
   <circle id='__dot_Neo__Universe__(JPN)' cx='1280' cy='1015' r='6' fill='#1548E5' stroke='none' />
-  <circle id='__dot_Admire__Groove__(JPN)' cx='1277' cy='1075' r='6' fill='#E991CF' stroke='none' />
+  <circle id='__dot_Admire__Groove__(JPN)' cx='1277' cy='1075' r='6' fill='#E515A8' stroke='none' />
   <circle id='__dot_Zenno__Rob__Roy__(JPN)' cx='1275' cy='1105' r='6' fill='#1548E5' stroke='none' />
   <circle id='__dot_Durandal__(JPN)' cx='1250' cy='1135' r='6' fill='#1548E5' stroke='none' />
   <circle id='__dot_Espoir__City__(JPN)' cx='1427' cy='1225' r='6' fill='#1548E5' stroke='none' />
