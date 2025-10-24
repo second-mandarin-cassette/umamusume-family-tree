@@ -1156,6 +1156,7 @@ style='opacity:0.6;' >
   <path id='__line_Believe__(JPN)' d='M 1081 505 C 1183,505 1115,1255 1217,1255 L 1217 1255 L 2037 1255' stroke='#E515A8' style='stroke-width:4;' />
   <path id='__line_Daiwa__Scarlet__(JPN)' d='M 1373 1285 C 1393.25,1285 1379.75,1315 1400,1315 L 1400 1315 L 2037 1315' stroke='#E515A8' style='stroke-width:4;' />
   <path id='__line_Agnes__Tachyon__(JPN)' d='M 1078 505 C 1182.25,505 1112.75,1285 1217,1285 L 1217 1285 L 1552 1285' stroke='#1548E5' style='stroke-width:4;' />
+  <path id='__line_Red__Desire__(JPN)' d='M 1430 1345 C 1450.25,1345 1436.75,1375 1457,1375 L 1457 1375 L 1760 1375' stroke='#E515A8' style='stroke-width:4;' />
   <path id='__line_Manhattan__Cafe__(JPN)' d='M 1071 505 C 1179,505 1107,1345 1215,1345 L 1215 1345 L 1737 1345' stroke='#1548E5' style='stroke-width:4;' />
   <path id='__line_In__This__Unison__(JPN)' d='M 1043 505 C 1153.25,505 1079.75,1375 1190,1375 L 1190 1375 L 1370 1375' stroke='#E991CF' style='stroke-width:4;' />
   <path id='__line_Air__Shakur__(JPN)' d='M 1032 505 C 1144.5,505 1069.5,1405 1182,1405 L 1182 1405 L 1365 1405' stroke='#1548E5' style='stroke-width:4;' />
@@ -1381,6 +1382,7 @@ style='opacity:0.6;' >
   <circle id='__dot_Believe__(JPN)' cx='1217' cy='1255' r='6' fill='#E515A8' stroke='none' />
   <circle id='__dot_Daiwa__Scarlet__(JPN)' cx='1400' cy='1315' r='6' fill='#E515A8' stroke='none' />
   <circle id='__dot_Agnes__Tachyon__(JPN)' cx='1217' cy='1285' r='6' fill='#1548E5' stroke='none' />
+  <circle id='__dot_Red__Desire__(JPN)' cx='1457' cy='1375' r='6' fill='#E515A8' stroke='none' />
   <circle id='__dot_Manhattan__Cafe__(JPN)' cx='1215' cy='1345' r='6' fill='#1548E5' stroke='none' />
   <circle id='__dot_In__This__Unison__(JPN)' cx='1190' cy='1375' r='6' fill='#E991CF' stroke='none' />
   <circle id='__dot_Air__Shakur__(JPN)' cx='1182' cy='1405' r='6' fill='#1548E5' stroke='none' />
@@ -1660,6 +1662,8 @@ style='opacity:0.6;' >
   <a xlink:href=''><text x='1406' y='1311'  >Daiwa Scarlet (JPN)</text></a>
   <rect x='1222' y='1272' width='127' height='11' fill='#fff' opacity='0.5'  rx='5' ry='5' />
   <a xlink:href=''><text x='1223' y='1281'  >Agnes Tachyon (JPN)</text></a>
+  <rect x='1462' y='1362' width='103' height='11' fill='#fff' opacity='0.5'  rx='5' ry='5' />
+  <a xlink:href=''><text x='1463' y='1371'  >Red Desire (JPN)</text></a>
   <rect x='1220' y='1332' width='130' height='11' fill='#fff' opacity='0.5'  rx='5' ry='5' />
   <a xlink:href=''><text x='1221' y='1341'  >Manhattan Cafe (JPN)</text></a>
   <rect x='1195' y='1362' width='121' height='11' fill='#fff' opacity='0.5'  rx='5' ry='5' />
