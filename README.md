@@ -2,6 +2,8 @@
 ## Description
 A cladogram visualizing the relations of the ingame characters and their real life ancestors. It can be viewed here: https://second-mandarin-cassette.github.io/umamusume-family-tree/
 
+Table of contents which contains other lists, tables or diagrams: https://second-mandarin-cassette.github.io/umamusume-family-tree/table_of_contents.html
+
 ### Guidlines
 Common ancestor of at least two characters is only added and linked if it is not further apart then three degrees. Or when the ancestor is already present.
 
